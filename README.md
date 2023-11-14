@@ -55,6 +55,6 @@ This is a normal flutter app. You should follow the instructions in the [officia
 
 | S.No. | Directory                                                                    | Purpose                       |
 | ----- | ---------------------------------------------------------------------------- | ----------------------------- |
-| 1.    | [ML]()                     | contains the ML Model         |
+| 1.    | [ML](https://github.com/FelixFelicis555/Viran/tree/main/ML)                     | contains the ML Model         |
 | 2.    | [viraan]()             | Flutter app code base         |
 
